@@ -19,7 +19,7 @@
 <div align="center">
 <span><a href="https://dev-yulim-eng.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog en-8cd98c?style=flat-square&logo=Blogger&logoColor=white"/><a href=""></a></span>&nbsp;&nbsp;
 <span><a href="https://dev-yulim.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog 🇰🇷-8cd98c?style=flat-square&logo=Blogger&logoColor=white"/></a></span>&nbsp;&nbsp;
-<span><a href="https://dev-yulim-eng.tistory.com/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white"/><a href=""></a></span>
+<span><a href="https://www.linkedin.com/in/yulimchoi/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white"/><a href=""></a></span>
 </div>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=ffcccc&height=250&section=footer&text=&fontSize=70&fontColor=white"/></p>
 
