@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=ffcccc&height=250&section=header&text=Welcome to my Git&fontSize=70&animation=scaleIn&fontColor=white"/></p>
-<h4 align="center">Hello!🖐 My name is Esther, and I am a <img src="https://img.shields.io/badge/BackEnd-Developer-ff8080?style=flat&logo=&logoColor=white"/></a></h4>&nbsp;
+<h4 align="center">Hello!🖐 My name is Esther, and I am a <img src="https://img.shields.io/badge/Full Stack-Developer-ff8080?style=flat&logo=&logoColor=white"/></a></h4>&nbsp;
 
 <h3 align="center">💜Tech Stack💜</h3>
 <h3></h3>
@@ -9,9 +9,12 @@
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=white"/></a></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=white"/></a></span>&nbsp;&nbsp;
+<span><img src="https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=Html&logoColor=white"/></a></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=white"/></a></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jQuery&logoColor=white"/></a></span>
+<span><img src="https://img.shields.io/badge/Svelte-0769ad?style=for-the-badge&logo=Svelte&logoColor=white"/></a></span>
+
 </div>
 &nbsp;
 <h3 align="center">Contancts</h3>
